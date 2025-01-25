@@ -1,14 +1,14 @@
 # SakuraTheme
 Temas aesthetic en tonos rosados pastel y oscuros para Discord, perfectos para personalizar tu experiencia. ♡(>ᴗ•)
 
+---
+
 # 🌸 Sakura Themes for Discord 🌸
 
 ¡Bienvenido a mis adorables temas para Discord! (˶˃ ᵕ ˂˶) .ᐟ.ᐟ\
 Estos temas están diseñados con mucho amor para combinar tonos rosados pastel y detalles aesthetic que harán que tu experiencia en Discord sea aún más linda. ✨💕
 
 ---
-
-
 
 ## ✨ Temas incluidos:
 1. **Sakura Pastel** 🌸 ₊˚💐ʚ₍ᐢ. ̫.ᐢ₎₊˚✧
@@ -33,25 +33,22 @@ Estos temas están diseñados con mucho amor para combinar tonos rosados pastel 
 
 ---
 
-##🌸 Preview:
-Sakura Pastel
-
-Sakura Dark
-
-Sakura Details
-
-##📜 Licencia:
+# 📜 **Licencia**
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo y compartirlo, pero por favor, da crédito. ✨
 
-## 🛠️ Instalación:
+---
+
+# 🛠️ Instalación:
 1. Haz clic en el botón de descarga del tema que prefieras.  
 2. Abre BetterDiscord y ve a:\
    **Settings → Themes → Open Themes Folder.**
 3. Copia el archivo `.css` a la carpeta.
 4. Activa el tema en la configuración de BetterDiscord. ¡Y listo! (✿◠‿◠)
 
-## 🎨 Personalización:
+---
+
+# 🎨 Personalización:
 ¿Quieres cambiar los colores? Puedes editar el archivo `.css` directamente.  
 Busca estas líneas en el archivo y ajusta los valores:
 
