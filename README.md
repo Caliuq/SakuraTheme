@@ -8,18 +8,20 @@ Estos temas están diseñados con mucho amor para combinar tonos rosados pastel 
 
 ---
 
+
+
 ## ✨ Temas incluidos:
 1. **Sakura Pastel** 🌸 ₊˚💐ʚ₍ᐢ. ̫.ᐢ₎₊˚✧
    - Un tema suave y relajante con tonos rosados claros. Perfecto para el modo claro.  
-   [🔽 Descargar Sakura Pastel](./Sakura%20Pastel/sakura-pastel.css)
+   [🔽Sakura Light.theme.css]
 
 2. **Sakura Dark** 🌙‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶ ˖🎐
    - Una versión para el modo oscuro con rosas intensos que combinan a la perfección.  
-   [🔽 Descargar Sakura Dark](./Sakura%20Dark/sakura-dark.css)
+   [🔽Sakura.theme.css]
 
 3. **Sakura Details** 🎀ೀ⋆｡🌷
    - Un tema versátil que añade detalles rosados en cualquier configuración.  
-   [🔽 Descargar Sakura Details](./Sakura%20Details/sakura-details.css)
+   [🔽Sakura Details.theme.css]
 
 ---
 
