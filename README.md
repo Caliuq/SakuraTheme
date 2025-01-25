@@ -50,7 +50,6 @@ Busca estas líneas en el archivo y ajusta los valores:
     --accent-color: #f99aaa; /* Color de acentos */
 }
 
-
 🌸 Preview:
 Sakura Pastel
 
