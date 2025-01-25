@@ -31,6 +31,17 @@ Estos temas están diseñados con mucho amor para combinar tonos rosados pastel 
 
 ---
 
+##🌸 Preview:
+Sakura Pastel
+
+Sakura Dark
+
+Sakura Details
+
+##📜 Licencia:
+Este proyecto está bajo la licencia MIT.
+Puedes usarlo y compartirlo, pero por favor, da crédito. ✨
+
 ## 🛠️ Instalación:
 1. Haz clic en el botón de descarga del tema que prefieras.  
 2. Abre BetterDiscord y ve a:\
@@ -48,15 +59,3 @@ Busca estas líneas en el archivo y ajusta los valores:
     --accent-color: #f99aaa; /* Color de acentos */
 }
 
----
-
-🌸 Preview:
-Sakura Pastel
-
-Sakura Dark
-
-Sakura Details
-
-📜 Licencia:
-Este proyecto está bajo la licencia MIT.
-Puedes usarlo y compartirlo, pero por favor, da crédito. ✨
