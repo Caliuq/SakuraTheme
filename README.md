@@ -49,3 +49,16 @@ Busca estas líneas en el archivo y ajusta los valores:
     --primary-bg: #ffeef2; /* Fondo principal */
     --accent-color: #f99aaa; /* Color de acentos */
 }
+
+
+🌸 Preview:
+Sakura Pastel
+
+Sakura Dark
+
+Sakura Details
+
+📜 Licencia:
+Este proyecto está bajo la licencia MIT.
+Puedes usarlo y compartirlo, pero por favor, da crédito. ✨
+
