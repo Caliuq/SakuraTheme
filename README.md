@@ -38,8 +38,6 @@ Estos temas están diseñados con mucho amor para combinar tonos rosados pastel 
 3. Copia el archivo `.css` a la carpeta.
 4. Activa el tema en la configuración de BetterDiscord. ¡Y listo! (✿◠‿◠)
 
----
-
 ## 🎨 Personalización:
 ¿Quieres cambiar los colores? Puedes editar el archivo `.css` directamente.  
 Busca estas líneas en el archivo y ajusta los valores:
@@ -49,6 +47,8 @@ Busca estas líneas en el archivo y ajusta los valores:
     --primary-bg: #ffeef2; /* Fondo principal */
     --accent-color: #f99aaa; /* Color de acentos */
 }
+
+---
 
 🌸 Preview:
 Sakura Pastel
@@ -60,4 +60,3 @@ Sakura Details
 📜 Licencia:
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo y compartirlo, pero por favor, da crédito. ✨
-
